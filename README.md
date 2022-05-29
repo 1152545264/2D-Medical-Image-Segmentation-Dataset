@@ -7,7 +7,7 @@
 其中4需要注册  
 
 #  常见的数据集
-医学图像数据集大多都是3D的，因此3D的比较常见，一般都是2D的数据集比较难找到，因此本项目主要是列举一些2D的数据集
+医学图像数据集大多都是3D的，3D的比较常见，一般都是2D的数据集比较难找到，因此本项目主要是列举一些2D的数据集
  ## 1、息肉分割：
   1.1bkai息肉分割：https://bkai.ai/research/bkai-igh-neopolyp-small-a-dataset-for-fine-grained-polyp-segmentation/?fbclid=IwAR0x-wOB-74KOPW9G2jNtSCcfM4ybiLNZZuPTbDCCxE4MZHRCXR7-GoAo94/   
   1.2kvasir息肉分割：https://datasets.simula.no/kvasir-seg/  
