@@ -22,7 +22,8 @@
   5.1  
     标注：https://github.com/SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-Net  
     原数据集：https://data.mendeley.com/datasets/hxt48yk462/1  
-## 6、眼部血管分割：https://drive.grand-challenge.org/  
+## 6、眼部血管分割：
+    https://drive.grand-challenge.org/  
 
 # 参考链接
 1、https://github.com/linhandev/dataset  
